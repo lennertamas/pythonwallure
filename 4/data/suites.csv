@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Fri Mar 01 09:03:34 GMT 2024","Fri Mar 01 09:03:34 GMT 2024","0","","test_prime","","","","Test exception ","This test attempts to test wether an alphabet char raises exception"
+"failed","Fri Mar 01 09:03:34 GMT 2024","Fri Mar 01 09:03:34 GMT 2024","0","","test_prime","","","","Test 5 is prime ","This test attempts to test wether 5 is prime or not."
+"passed","Fri Mar 01 09:03:34 GMT 2024","Fri Mar 01 09:03:34 GMT 2024","0","","test_prime","","","","Test 4 is prime ","This test attempts to test wether 4 is prime or not."
