@@ -1,4 +1,6 @@
-def is_prime(num:int):
+import pytest
+
+def is_prime(num):
     if num < 1:
         return False
     elif num <= 3:
@@ -11,3 +13,7 @@ def is_prime(num:int):
             return False
         i += 6
     return True
+
+
+
+
