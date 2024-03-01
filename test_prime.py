@@ -22,7 +22,7 @@ def test_4_is_prime():
 @allure.testcase("TMS-123")
 @allure.severity(allure.severity_level.CRITICAL)
 def test_5_is_prime():
-    assert prime.is_prime(5)==False
+    assert prime.is_prime(5)==True
 
 @allure.title("Test exception ")
 @allure.description("This test attempts to test wether an alphabet char raises exception")
